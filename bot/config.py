@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1829195550:AAF37eKsKoRfx1LjQfdqDwucN2yFJsdslH0"
+    APP_ID = "6437883"
+    API_HASH = "d1acdb80ef03d6879c9f3f01d80bd347 "
+    DATABASE_URL = "postgres://wajtzkdkudpasf:78ee252dc90f6644ef8388a519337c780df7e43ef485c78ad989467ea14c8553@ec2-52-202-152-4.compute-1.amazonaws.com:5432/daiolvva6mnoo6"
+    SUDO_USERS = "1525211650 1248225727" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/KMTMyanmarChannel"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
